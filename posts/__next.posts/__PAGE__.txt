@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+2:I[97367,["/digitalbanking-landing/_next/static/chunks/ff1a16fafef87110.js","/digitalbanking-landing/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"buildId":"0fQLss0h_qbTAeAVvInF6","rsc":["$","$1","c",{"children":[["$","div",null,{"children":"MainPage"}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"4DEoVBpuDhgqZkMZC9R5G","rsc":["$","$1","c",{"children":[["$","div",null,{"children":"MainPage"}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
 4:null
